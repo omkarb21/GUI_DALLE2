@@ -8,7 +8,7 @@ I have called their API(available on their website) and does not hold any copyri
 <ol>
   <li>Download the zip files by clicking on clone and then 'donwload as zip files'
   <li>Unzip the folder and open the main.py file in any Python IDE you prefer
-  <li>put your API key in the code(can be generated from openAI's website: https://beta.openai.com/docs/quickstart/build-your-application
+  <li>Put your API key in the code(can be generated from openAI's website: https://beta.openai.com/docs/quickstart/build-your-application
   
 <img width="648" alt="image" src="https://user-images.githubusercontent.com/58302404/205188635-3fab8ebc-608b-4129-8a62-52f72cb8f79c.png">
  
